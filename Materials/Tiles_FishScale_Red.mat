@@ -2,20 +2,14 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 8
+  serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Tiles_FishScale_Red
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ValidKeywords:
-  - _GLOSSYREFLECTIONS_OFF
-  - _METALLICGLOSSMAP
-  - _NORMALMAP
-  m_InvalidKeywords:
-  - _ENVIRONMENTREFLECTIONS_OFF
-  - _METALLICSPECGLOSSMAP
+  m_ShaderKeywords: _NORMALMAP
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -38,11 +32,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 2d13c6760db62ed4fa29e4a03d46d8ed, type: 3}
+        m_Texture: {fileID: 2800000, guid: c36c549cd60a33e44b3fee43dff3afab, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 29f07c4905b3e61459411e06db8f20a1, type: 3}
+        m_Texture: {fileID: 2800000, guid: 65ca248a7f2792742972710490c7d43b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -62,11 +56,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 2d13c6760db62ed4fa29e4a03d46d8ed, type: 3}
+        m_Texture: {fileID: 2800000, guid: bf3e2bb3a1d913b40bc51b41dfe0bf10, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
-        m_Texture: {fileID: 2800000, guid: 4096c7cd6a783a44dbd755a26c1c2772, type: 3}
+        m_Texture: {fileID: 2800000, guid: 61d9ca75c7f854c4892969365e5e3cf8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
@@ -93,7 +87,6 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    m_Ints: []
     m_Floats:
     - Boolean_1F154CB1: 0
     - Boolean_4D481D79: 0
@@ -114,9 +107,9 @@ Material:
     - _DstBlend: 0
     - _EnvironmentReflections: 0
     - _GlossMapScale: 0.7
-    - _Glossiness: 0
+    - _Glossiness: 0.181
     - _GlossyReflections: 0
-    - _Metallic: 0
+    - _Metallic: 0.257
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
@@ -138,7 +131,6 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-  m_BuildTextureStacks: []
 --- !u!114 &1211475070666328067
 MonoBehaviour:
   m_ObjectHideFlags: 11
