@@ -2,16 +2,12 @@
   "name": "com.marosi.starterassets",
   "version": "0.1.10",
   "displayName": "Starter Assets",
-  "description": "This is a few Asset from multiple free sources renamed and rearranged.",
-  "unity": "2019.4",
+  "description": "This is a few Asset from multiple free sources renamed, rearranged and resized.",
   "type": "sample",
   "samples": {
     "displayName": "LooseLink Sample",
     "description": "Sample project using LooseLink",
     "path": "Samples~"
-  },
-  "dependencies": {
-    "com.marosi.utility": "1.3.1"
   },
   "author": {
     "name": "Csaba Marosi",
