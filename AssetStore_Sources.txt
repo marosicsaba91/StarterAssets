@@ -6,6 +6,19 @@ Unity Technologies:
 	2D Game Kit
 	Starter Assets - Third Person Character Controller
 
+Ansimuz
+    Sunny Land
+    Sunny Land Forest
+    Stomper Platform Assets
+    Top Down Adventure Assets
+    Super Grotto Escape Pack
+    Grotto Escape II
+    MegaBot Areas Pack 1
+
+Pixel Frog
+    Pixel Adventure 1
+    Pixel Adventure 2
+
 Unity Technologies
 	Pixel Skies DEMO Background pack
 
@@ -15,6 +28,13 @@ DinV Studio
 GWriterStudio
 	8Bit Music - 062022
 	
+	
+Blink
+    FREE Stylized Textures - RPG Environment
+
+LowPoly
+    Free Stylized Textures
+
 University of Games
 	University of Games
 	
@@ -32,3 +52,9 @@ wowu
 
 Synty Studios
 	POLYGON Starter Pack - Low Poly 3D Art by Synty
+	
+ShadedIcon
+    2D ITEMS SET - HANDPAINTED
+
+Unruly Games
+    Resource Icons
