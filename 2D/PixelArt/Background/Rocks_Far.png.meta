@@ -47,12 +47,12 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
-  spriteTessellationDetail: -1
+  spriteTessellationDetail: 0
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
@@ -67,7 +67,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 512
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -104,11 +104,41 @@ TextureImporter:
   spriteSheet:
     serializedVersion: 2
     sprites: []
-    outline: []
+    outline:
+    - - {x: -176, y: -78}
+      - {x: -165.21765, y: -71.09551}
+      - {x: -157, y: -71}
+      - {x: -133, y: -57}
+      - {x: -123, y: -58}
+      - {x: -123, y: -16}
+      - {x: -83.12583, y: -15.89756}
+      - {x: -83.856705, y: -62.171276}
+      - {x: -76.41814, y: -64.76709}
+      - {x: -64.096436, y: -11.547173}
+      - {x: -44.96608, y: -11.798599}
+      - {x: -23.862549, y: -53.475906}
+      - {x: -20.096954, y: -68.04661}
+      - {x: -6.715103, y: -59.85687}
+      - {x: -15.582489, y: -13.205528}
+      - {x: 6.031433, y: -4.8385696}
+      - {x: 25.444153, y: -14.218864}
+      - {x: 28.759811, y: -34.398857}
+      - {x: 43.00009, y: -23.307793}
+      - {x: 61.852524, y: -14.313164}
+      - {x: 97.88013, y: -28.61599}
+      - {x: 111.47882, y: -46.939804}
+      - {x: 121.29553, y: -46.852783}
+      - {x: 129.85706, y: -53.143265}
+      - {x: 129.00763, y: -77.52269}
+      - {x: 137.32974, y: -80.940605}
+      - {x: 158.80695, y: -69.60875}
+      - {x: 176, y: -78.45388}
+      - {x: 176, y: -120}
+      - {x: -176, y: -120}
     physicsShape: []
     bones: []
     spriteID: 5e97eb03825dee720800000000000000
-    internalID: 0
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
