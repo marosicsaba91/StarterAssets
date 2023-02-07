@@ -11,7 +11,6 @@ Material:
   m_Shader: {fileID: 4800000, guid: 91890bd16ef3a1744ae2e9daa0c7a058, type: 3}
   m_ValidKeywords:
   - _UVFREE_BUMPED
-  - _UVFREE_LOCAL
   m_InvalidKeywords:
   - _GLOSSYREFLECTIONS_OFF
   - _NORMALMAP
@@ -133,7 +132,7 @@ Material:
     - _Surface: 0
     - _TexPower: 10
     - _UVFreeBumped: 1
-    - _UVFreeLocal: 1
+    - _UVFreeLocal: 0
     - _UVFreeRim: 0
     - _UVFreeVertexColor: 0
     - _UVSec: 0
