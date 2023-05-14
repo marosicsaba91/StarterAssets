@@ -246,6 +246,5 @@ Shader "UVFree/UVFreeDiffuse" {
 		}
 		ENDCG
 	} 
-	FallBack "Diffuse"	
-	CustomEditor "UVFreeLegacyTopBottomGUI"
+	FallBack "Diffuse"
 }
